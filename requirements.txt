@@ -1,5 +1,5 @@
-numpy==1.21.4
+numpy
 pandas
 python==3.12
-pickle-mixin==1.0.2
-scikit-learn==1.0.1
+pickle-mixin
+scikit-learn
