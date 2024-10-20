@@ -1,5 +1,5 @@
 numpy
 pandas
-python==3.12
+python==3.8
 pickle-mixin
 scikit-learn
