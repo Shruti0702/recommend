@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+gunicorn
+python 3.12
+pickle
+scikit-learn
+
