@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import pickle
+import sklearn
 from sklearn.metrics.pairwise import cosine_similarity
 books = pd.read_csv('books.csv')
 ratings = pd.read_csv('ratings.csv')
