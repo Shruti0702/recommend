@@ -1,9 +1,5 @@
-flask
-numpy
+numpy==1.21.4
 pandas
 python 3.12;
-pickle
-scikit-learn
-sklearn
-
-
+pickle-mixin==1.0.2
+scikit-learn==1.0.1
